@@ -26,6 +26,7 @@
   - Sigspatial 2025
   - SSTD 2025
   - W2GIS
+  - Spatial Statistics: NH Leeuwenhoorst, Noordwijk, The Netherlands. 15-18 July 2025
  
 ### Oceania
 
